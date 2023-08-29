@@ -1,2 +1,8 @@
 h1 { color: greenyellow }
 h2 {color: red }
+
+.logo{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
